@@ -1,0 +1,2 @@
+# menghao
+just  funtion
